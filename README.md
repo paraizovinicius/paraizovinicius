@@ -5,6 +5,7 @@ Hello! My name is Vinicius and I'm a Computer Sciences Student 5/8 passionate ab
 Here are some statistics about my profile:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paraizovinicius)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paraizovinicius)](https://github.com/anuraghazra/github-readme-stats)
 
 My main goals as a developer are:
 
