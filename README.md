@@ -10,7 +10,6 @@ Here are some statistics about my profile:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paraizovinicius)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ## My main goals as a developer are:
 Deepen my knowledge in cybersecurity, obtaining relevant certifications in the field and applying security practices in all the projects I develop.
 Improve my skills in game development, learning new technologies and programming techniques to create more immersive and challenging games.
