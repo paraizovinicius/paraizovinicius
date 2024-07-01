@@ -1,5 +1,5 @@
 # Profile
-Hello! My name is Vinicius and I'm a Computer Sciences Student 6/8 passionate about gaming and cybersecurity.
+Hello! My name is Vinicius and I'm a Computer Sciences Student 6/8 passionate about Machine Learning and game development.
 
 ## Stats
 Here are some statistics about my profile:
