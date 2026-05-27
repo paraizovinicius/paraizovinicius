@@ -1,5 +1,5 @@
 # Profile
-Hello! My name is Vinicius and I'm a Computer Scientist passionate about Machine Learning and AI.
+Hello! My name is Vinicius and I'm a Computer Scientist passionate about Machine Learning and AI. Check out my personal [Website](https://paraizovinicius.github.io/).
 
 ## Stats
 Here are some statistics about my profile:
